@@ -21,6 +21,7 @@ app = Dash(
     ], 
     suppress_callback_exceptions=True
 )
+server = app.server
 app.title = "Athletica â€“ Monitor Deportivo"
 server = app.server
 
@@ -13280,4 +13281,5 @@ def handle_back_to_doctor_dashboard_corrected(n_clicks, current_user, user_type,
 # ===============================
 if __name__ == "__main__":
     app.run(debug=True, port=8051)
+
 

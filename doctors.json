@@ -1,0 +1,180 @@
+{
+  "medico1": {
+    "password": "doctor123",
+    "email": "dr.smith@athletica.com",
+    "full_name": "Dr. John Smith",
+    "type": "doctor",
+    "patients": [
+      "Haisea",
+      "test"
+    ]
+  },
+  "neuro_med": {
+    "password": "neuro2024",
+    "email": "neuro@neuralink.com",
+    "full_name": "Dr. Neuralink Specialist",
+    "type": "doctor",
+    "patients": []
+  },
+  "nahia": {
+    "password": "123",
+    "email": "nahiaestebanez@gmail.com",
+    "full_name": "nahia",
+    "type": "doctor",
+    "patients": []
+  },
+  "b": {
+    "password": "123",
+    "email": "b@gmail.com",
+    "full_name": "b",
+    "type": "doctor",
+    "patients": [
+      "Gabriel"
+    ]
+  },
+  "c": {
+    "password": "123",
+    "email": "C@gmail.com",
+    "full_name": "c",
+    "type": "doctor",
+    "patients": [
+      "Gabriel"
+    ]
+  },
+  "d": {
+    "password": "123",
+    "email": "d@gmail.com",
+    "full_name": "d",
+    "type": "doctor",
+    "patients": [
+      "Gabriel"
+    ]
+  },
+  "e": {
+    "password": "123",
+    "email": "e@gmail.com",
+    "full_name": "e",
+    "type": "doctor",
+    "patients": [
+      "Gabriel"
+    ]
+  },
+  "g": {
+    "password": "123",
+    "email": "g@gmail.com",
+    "full_name": "g",
+    "type": "doctor",
+    "patients": [
+      "Gabriel"
+    ]
+  },
+  "h": {
+    "password": "123",
+    "email": "h@gmail.com",
+    "full_name": "h",
+    "type": "doctor",
+    "patients": [
+      "Gabriel"
+    ]
+  },
+  "i": {
+    "password": "123",
+    "email": "i@gmail.com",
+    "full_name": "i",
+    "type": "doctor",
+    "patients": [
+      "Gabriel"
+    ]
+  },
+  "j": {
+    "password": "123",
+    "email": "j@gmail.com",
+    "full_name": "j",
+    "type": "doctor",
+    "patients": [
+      "Gabriel",
+      "Haisea"
+    ]
+  },
+  "k": {
+    "password": "123",
+    "email": "k@gmail.com",
+    "full_name": "k",
+    "type": "doctor",
+    "patients": [
+      "Gabriel"
+    ]
+  },
+  "l": {
+    "password": "123",
+    "email": "l@gmail.com",
+    "full_name": "l",
+    "type": "doctor",
+    "patients": [
+      "Gabriel"
+    ]
+  },
+  "n": {
+    "password": "123",
+    "email": "n@gmail.com",
+    "full_name": "n",
+    "type": "doctor",
+    "patients": [
+      "Gabriel"
+    ]
+  },
+  "o": {
+    "password": "123",
+    "email": "0@gmail.com",
+    "full_name": "o",
+    "type": "doctor",
+    "patients": [
+      "Julen"
+    ]
+  },
+  "z": {
+    "password": "123",
+    "email": "z@gmail.com",
+    "full_name": "z",
+    "type": "doctor",
+    "patients": [
+      "Alejandro"
+    ]
+  },
+  "arene": {
+    "password": "123",
+    "email": "arene@gmail.com",
+    "full_name": "arene",
+    "type": "doctor",
+    "patients": [
+      "Haisea"
+    ]
+  },
+  "luka": {
+    "password": "123",
+    "email": "luka@gmail.com",
+    "full_name": "luka",
+    "type": "doctor",
+    "patients": [
+      "Gabriel"
+    ]
+  },
+  "enrique": {
+    "password": "123",
+    "email": "enrique@gmail.com",
+    "full_name": "enrique",
+    "type": "doctor",
+    "patients": [
+      "rodolfo"
+    ]
+  },
+  "Patricia": {
+    "password": "123",
+    "email": "patricia.rivera@gmail.com",
+    "full_name": "Patricia",
+    "type": "doctor",
+    "patients": [
+      "Haisea"
+    ]
+  }
+}

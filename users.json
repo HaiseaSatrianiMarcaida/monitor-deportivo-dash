@@ -1,0 +1,99 @@
+{
+  "Haisea": {
+    "password": "123",
+    "email": "haisea.satriani@gmail.com",
+    "full_name": "Haisea",
+    "onboarding_completed": true,
+    "activity_level": 5,
+    "type": "athlete"
+  },
+  "test": {
+    "password": "test",
+    "email": "test@test.com",
+    "full_name": "Usuario Test",
+    "onboarding_completed": true,
+    "activity_level": 5,
+    "type": "athlete"
+  },
+  "Andrés": {
+    "password": "123",
+    "email": "andres.perez@gmail.com",
+    "full_name": "Andrés",
+    "onboarding_completed": true,
+    "activity_level": 5,
+    "registration_date": "2025-11-03T15:23:18.302353",
+    "type": "athlete"
+  },
+  "Alejandro": {
+    "password": "123",
+    "email": "alejandro.galvaez@gmail.com",
+    "full_name": "Alejandro",
+    "onboarding_completed": false,
+    "activity_level": 5,
+    "type": "athlete"
+  },
+  "Julen": {
+    "password": "123",
+    "email": "juleniturbe@gmail.com",
+    "full_name": "Julen",
+    "onboarding_completed": true,
+    "activity_level": 8,
+    "type": "athlete"
+  },
+  "Gabriel": {
+    "password": "123",
+    "email": "gabrieljuan@gmail.com",
+    "full_name": "Gabriel",
+    "onboarding_completed": true,
+    "activity_level": 4,
+    "type": "athlete"
+  },
+  "a": {
+    "password": "123",
+    "email": "a@gmail.com",
+    "full_name": "a",
+    "onboarding_completed": false,
+    "activity_level": 5,
+    "type": "athlete"
+  },
+  "f": {
+    "password": "123",
+    "email": "f@gmail.com",
+    "full_name": "f",
+    "onboarding_completed": false,
+    "activity_level": 5,
+    "type": "athlete"
+  },
+  "m": {
+    "password": "123",
+    "email": "m@gmail.com",
+    "full_name": "m",
+    "onboarding_completed": false,
+    "activity_level": 5,
+    "type": "athlete"
+  },
+  "rodolfo": {
+    "password": "123",
+    "email": "rodolfo@gmail.com",
+    "full_name": "rodolfo",
+    "onboarding_completed": true,
+    "activity_level": 8,
+    "type": "athlete"
+  },
+  "Elia": {
+    "password": "123",
+    "email": "elia.rayo@gmail.com",
+    "full_name": "Elia",
+    "onboarding_completed": true,
+    "activity_level": 6,
+    "type": "athlete"
+  },
+  "Raul": {
+    "password": "123",
+    "email": "raul.perez@gmail.com",
+    "full_name": "Raul",
+    "onboarding_completed": true,
+    "activity_level": 8,
+    "type": "athlete"
+  }
+}

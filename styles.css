@@ -1,0 +1,126 @@
+/* ====== RESET ====== */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    background-color: #000;
+}
+
+/* ====== CONTENEDOR PRINCIPAL ====== */
+.welcome-container {
+    position: relative;
+    min-height: 100vh; /* Cambiado a min-height */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url("https://images.unsplash.com/photo-1550345332-09e3ac987658?auto=format&fit=crop&w=1600&q=80");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px; 
+
+}
+
+/* Capa oscura sobre la imagen para dar contraste */
+.welcome-container::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.65);
+    z-index: 1;
+}
+
+/* ====== CONTENIDO ====== */
+.content-box {
+    position: relative;
+    z-index: 2;
+    background: rgba(0, 0, 0, 0.55);
+    padding: 50px 60px;
+    border-radius: 20px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.8);
+    width: 90%;
+    max-width: 800px;
+}
+
+/* ====== LOGO Y TÍTULOS ====== */
+.logo {
+    width: 90px;
+    margin-bottom: 15px;
+}
+
+.main-title {
+    font-size: 3.5rem;
+    font-weight: 700;
+    color: #00e0ff;
+    letter-spacing: 4px;
+    text-shadow: 0 0 12px #00e0ff80;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: 1.2rem;
+    color: #ddd;
+    margin-bottom: 40px;
+}
+
+/* ====== TARJETAS ====== */
+.feature-section {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+}
+
+.feature-card {
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 15px;
+    padding: 20px;
+    margin: 10px;
+    width: 220px;
+    transition: all 0.3s ease;
+}
+
+.feature-card:hover {
+    transform: translateY(-6px);
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.icon {
+    font-size: 2rem;
+    color: #00e0ff;
+    margin-bottom: 10px;
+}
+
+.card-text {
+    font-size: 1rem;
+}
+
+/* ====== BOTONES ====== */
+.btn-start {
+    font-size: 1.1rem;
+    padding: 12px 28px;
+    border-radius: 12px;
+    background: linear-gradient(90deg, #00e0ff, #007bff);
+    border: none;
+    transition: all 0.3s ease;
+}
+
+.btn-start:hover {
+    background: linear-gradient(90deg, #00c4d8, #005fcc);
+    transform: translateY(-3px);
+    box-shadow: 0 4px 12px rgba(0, 224, 255, 0.5);
+}
+
+/* ====== PRIVACIDAD ====== */
+.privacy {
+    margin-top: 30px;
+    font-size: 0.9rem;
+    color: #bbb;
+}

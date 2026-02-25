@@ -1,0 +1,38 @@
+[
+  {
+    "type": "desayuno",
+    "time": "7:30",
+    "description": "2 tostadas con tomate y aceite de oliva\nUna taza de leche con miel",
+    "carbs": 60,
+    "protein": 25,
+    "fat": 18,
+    "calories": 500,
+    "id": "meal_1765795854",
+    "date": "2025-12-15",
+    "timestamp": "2025-12-15 11:50:54"
+  },
+  {
+    "type": "desayuno",
+    "time": "9:30",
+    "description": "Leche con galletas",
+    "carbs": 0,
+    "protein": 0,
+    "fat": 0,
+    "calories": 350,
+    "id": "meal_1766245101",
+    "date": "2025-12-20",
+    "timestamp": "2025-12-20 16:38:21"
+  },
+  {
+    "type": "almuerzo",
+    "time": "13:00",
+    "description": "Huevos revueltos con atún",
+    "carbs": 150,
+    "protein": 30,
+    "fat": 15,
+    "calories": 500,
+    "id": "meal_1766245218",
+    "date": "2025-12-20",
+    "timestamp": "2025-12-20 16:40:18"
+  }
+]
